@@ -26,5 +26,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+Estudiantes: 
+    |--Estudiante A: Santiago Ballen, 202023544, s.balleno@uniandes.edu.co 
+    |--Estudiante B: Paola Andrea Campiño, 202020785, p.campino@uniandes.edu.co
 
 
